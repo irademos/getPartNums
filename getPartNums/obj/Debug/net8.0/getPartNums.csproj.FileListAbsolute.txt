@@ -1,0 +1,14 @@
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\bin\Debug\net8.0\getPartNums.exe
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\bin\Debug\net8.0\getPartNums.deps.json
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\bin\Debug\net8.0\getPartNums.runtimeconfig.json
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\bin\Debug\net8.0\getPartNums.dll
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\bin\Debug\net8.0\getPartNums.pdb
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net8.0\getPartNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net8.0\getPartNums.AssemblyInfoInputs.cache
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net8.0\getPartNums.AssemblyInfo.cs
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net8.0\getPartNums.csproj.CoreCompileInputs.cache
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net8.0\getPartNums.dll
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net8.0\refint\getPartNums.dll
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net8.0\getPartNums.pdb
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net8.0\getPartNums.genruntimeconfig.cache
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net8.0\ref\getPartNums.dll

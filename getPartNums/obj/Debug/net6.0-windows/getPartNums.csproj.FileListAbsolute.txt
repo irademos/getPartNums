@@ -1,0 +1,14 @@
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\bin\Debug\net6.0-windows\getPartNums.exe
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\bin\Debug\net6.0-windows\getPartNums.deps.json
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\bin\Debug\net6.0-windows\getPartNums.runtimeconfig.json
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\bin\Debug\net6.0-windows\getPartNums.dll
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\bin\Debug\net6.0-windows\getPartNums.pdb
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net6.0-windows\getPartNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net6.0-windows\getPartNums.AssemblyInfoInputs.cache
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net6.0-windows\getPartNums.AssemblyInfo.cs
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net6.0-windows\getPartNums.csproj.CoreCompileInputs.cache
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net6.0-windows\getPartNums.dll
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net6.0-windows\refint\getPartNums.dll
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net6.0-windows\getPartNums.pdb
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net6.0-windows\getPartNums.genruntimeconfig.cache
+C:\Users\DemosChristopher\OneDrive - TK Elevator\Documents\Visual Studio\getPartNums\getPartNums\obj\Debug\net6.0-windows\ref\getPartNums.dll
